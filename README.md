@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Game Legend
 - 👀 I’m interested in coding bots and creating apps and websites 
-- 🌱 I’m currently learning c++, javascript
+- 🌱 I’m currently learning C++, Node.js, Discord.js, Java
 
 
 <!---
